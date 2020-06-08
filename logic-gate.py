@@ -83,7 +83,7 @@ def main():
             a = input("Introduce-ti valoarea pentru input 1 (1 or 0): ")  
             b = input("Introduce-ti valoarea pentru input 2 (1 or 0): ")  
             x = NAND(a, b)  
-            print("The output will be:", x)  
+            print("Output-ul va fii::", x)  
         elif question == "XOR" or question == "xor" or question == "Xor":  
             a = input("Introduce-ti valoarea pentru input 1 (1 or 0): ")  
             b = input("Introduce-ti valoarea pentru input 2 (1 or 0): ")  
